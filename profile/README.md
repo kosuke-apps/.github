@@ -7,13 +7,19 @@ source under the MIT licence.
 
 ## Apps
 
-Repositories appear here as they are published.
+| App | Platform | What it does |
+|---|---|---|
+| [Headway](https://github.com/kosuke-apps/headway) | iPhone | Live Madison, WI bus map: offline map with every route and stop, live buses, trip planner with transfers, and punctuality measured from its own recordings. |
+| [NotchShelf](https://github.com/kosuke-apps/NotchShelf) | Mac | Opens the menu bar items hidden behind the MacBook notch, from the notch itself. |
+| [Paddock](https://github.com/kosuke-apps/paddock) | Mac | Menu bar app that runs the shared local Ollama server: on/off, state at a glance, local-only with cloud features off. |
+| [SpellBar](https://github.com/kosuke-apps/SpellBar) | Mac | A menu bar app that brings the Japanese IME's conversion key to English typing, in any macOS app. |
+| [Tapdeck](https://github.com/kosuke-apps/Tapdeck) | Mac | Audio routing, mixing and recording for macOS: per-app capture, virtual devices and several outputs per mix. |
 
 ## Downloads
 
-Releases are plain zip files on each repository's Releases page. They are signed but not notarized, so macOS asks for
-confirmation the first time: open **System Settings → Privacy & Security** and choose **Open Anyway**. Every README
-explains this.
+Each README says how to get the app: build it from source, or, where a release exists, download the zip from the
+repository's Releases page. Release builds are signed but not notarized, so macOS asks for confirmation the first
+time: open **System Settings → Privacy & Security** and choose **Open Anyway**.
 
 ## Support and security
 
