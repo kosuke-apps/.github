@@ -9,17 +9,18 @@ source under the MIT licence.
 
 | App | Platform | What it does |
 |---|---|---|
-| [Headway](https://github.com/kosuke-apps/headway) | iPhone | Live Madison, WI bus map: offline map with every route and stop, live buses, trip planner with transfers, and punctuality measured from its own recordings. |
+| [Headway](https://github.com/kosuke-apps/Headway) | iPhone | Live Madison, WI bus map: offline map with every route and stop, live buses, trip planner with transfers, and punctuality measured from its own recordings. |
 | [NotchShelf](https://github.com/kosuke-apps/NotchShelf) | Mac | Opens the menu bar items hidden behind the MacBook notch, from the notch itself. |
-| [Paddock](https://github.com/kosuke-apps/paddock) | Mac | Menu bar app that runs the shared local Ollama server: on/off, state at a glance, local-only with cloud features off. |
+| [Paddock](https://github.com/kosuke-apps/Paddock) | Mac | Menu bar app that runs the shared local Ollama server: on/off, state at a glance, local-only with cloud features off. |
 | [SpellBar](https://github.com/kosuke-apps/SpellBar) | Mac | A menu bar app that brings the Japanese IME's conversion key to English typing, in any macOS app. |
 | [Tapdeck](https://github.com/kosuke-apps/Tapdeck) | Mac | Audio routing, mixing and recording for macOS: per-app capture, virtual devices and several outputs per mix. |
 
 ## Downloads
 
-Each README says how to get the app: build it from source, or, where a release exists, download the zip from the
-repository's Releases page. Release builds are signed but not notarized, so macOS asks for confirmation the first
-time: open **System Settings → Privacy & Security** and choose **Open Anyway**.
+Where a release exists, its repository's Releases page has the download. Mac apps come as a `.dmg`: open it and drag
+the app to Applications. Releases are signed but not notarized, so macOS asks for confirmation the first time: open
+**System Settings → Privacy & Security** and choose **Open Anyway**. Each release lists a SHA-256 checksum to verify
+the download. Otherwise, each README explains how to build the app from source.
 
 ## Support and security
 
