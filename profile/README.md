@@ -20,7 +20,8 @@ source under the MIT licence.
 Where a release exists, its repository's Releases page has the download. Mac apps come as a `.dmg`: open it and drag
 the app to Applications. Releases are signed but not notarized, so macOS asks for confirmation the first time: open
 **System Settings → Privacy & Security** and choose **Open Anyway**. Each release lists a SHA-256 checksum to verify
-the download. Otherwise, each README explains how to build the app from source.
+the download. Headway for iPhone is an unsigned `.ipa`, installed with a sideloading tool and your own Apple ID.
+Otherwise, each README explains how to build the app from source.
 
 ## Support and security
 
