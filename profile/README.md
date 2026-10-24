@@ -10,6 +10,7 @@ source under the MIT licence.
 | App | Platform | What it does |
 |---|---|---|
 | [Headway](https://github.com/kosuke-apps/Headway) | iPhone | Live Madison, WI bus map: offline map with every route and stop, live buses, trip planner with transfers, and punctuality measured from its own recordings. |
+| [Kitbag](https://github.com/kosuke-apps/Kitbag) | iPhone | One app that holds a student's everyday tools (timetable, GPA, calendar, notes, weather) and runs Headway and Mantissa inside itself. |
 | [Mantissa](https://github.com/kosuke-apps/Mantissa) | iPhone | Offline scientific and graphing calculator: exact answers, equations, calculus and graphs. No ads, no accounts, no network. |
 | [NotchShelf](https://github.com/kosuke-apps/NotchShelf) | Mac | Opens the menu bar items hidden behind the MacBook notch, from the notch itself. |
 | [Paddock](https://github.com/kosuke-apps/Paddock) | Mac | Menu bar app that runs the shared local Ollama server: on/off, state at a glance, local-only with cloud features off. |
@@ -21,7 +22,7 @@ source under the MIT licence.
 Where a release exists, its repository's Releases page has the download. Mac apps come as a `.dmg`: open it and drag
 the app to Applications. Releases are signed but not notarized, so macOS asks for confirmation the first time: open
 **System Settings → Privacy & Security** and choose **Open Anyway**. Each release lists a SHA-256 checksum to verify
-the download. The iPhone apps (Headway, Mantissa) are unsigned `.ipa` files, installed with a sideloading tool and your own Apple ID.
+the download. The iPhone apps (Headway, Kitbag, Mantissa) are unsigned `.ipa` files, installed with a sideloading tool and your own Apple ID.
 Otherwise, each README explains how to build the app from source.
 
 ## Support and security
