@@ -13,6 +13,20 @@
 Each app does one thing, runs on your device, asks only for the permissions it needs and says why, and is free and
 open source under the MIT licence.
 
+<p align="center">
+  <a href="https://github.com/kosuke-apps/Headway"><img src="https://raw.githubusercontent.com/kosuke-apps/.github/main/profile/assets/showcase/headway.webp" width="30%" alt="Headway: live buses on an offline map of Madison"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kosuke-apps/Kitbag"><img src="https://raw.githubusercontent.com/kosuke-apps/.github/main/profile/assets/showcase/kitbag.webp" width="30%" alt="Kitbag: the Today screen with the weather, the next class and what is due soon"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kosuke-apps/Mantissa"><img src="https://raw.githubusercontent.com/kosuke-apps/.github/main/profile/assets/showcase/mantissa.webp" width="30%" alt="Mantissa: the exact solutions of an equation with its graph"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kosuke-apps/Headway"><b>Headway</b></a>: every bus in Madison, live &nbsp;·&nbsp;
+  <a href="https://github.com/kosuke-apps/Kitbag"><b>Kitbag</b></a>: a student's day in one app &nbsp;·&nbsp;
+  <a href="https://github.com/kosuke-apps/Mantissa"><b>Mantissa</b></a>: exact maths, offline
+</p>
+
 ## iPhone
 
 <table>
